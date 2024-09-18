@@ -7,7 +7,13 @@ profMatGru=[
     ['Lol1','mat','1ºESOA','A1',4],
     ['AnV1','ing','1ºESOA','A1',4],
     ['Dio1','byg','1ºESOA','A1',3],
-    ['Ant1','geh','1ºESOA','A1',3]
+    ['Ant1','geh','1ºESOA','A1',3],
+    ['Jor1','edf','1ºESOA','Gy',3],
+    ['Ana1','epv','1ºESOA','TD',2],
+    ['Lol1','tut','1ºESOA','A1',1],
+    ['Gui1','mus','1ºESOA','A1',2],
+    ['San1','cyr','1ºESOA','H4',2],
+    ['Raf1','fra','1ºESOA','A1',2]
 ]
 
 # Estructura que almacena los horarios. Las filas son las horas, las columnas los días.
